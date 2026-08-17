@@ -253,7 +253,7 @@ Feel free to reach out!
 
 <div align="center">
 
-## 📖 Final Page
+## Final Page
 
 ### Thanks for visiting!
 
