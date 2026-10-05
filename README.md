@@ -41,7 +41,7 @@ alt="Typing SVG"
 
 ## 👋 About Me
 
-Hi! I'm **Mikawa**.
+Hi!! I'm **Mikawa**.
 
 I'm interested in software development and enjoy learning new technologies and building things with code.
 
